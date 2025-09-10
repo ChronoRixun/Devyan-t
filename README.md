@@ -9,6 +9,18 @@
 
 An AI development assistant that transforms natural language descriptions into complete Python projects using a revolutionary **psychology-independent architecture** that eliminates the reliability issues plaguing traditional AI agent systems.
 
+---
+
+## 🆕 New to AI, Python, Ollama, or Github?
+
+**Never used AI tools or programming before? No problem!**
+
+👉 **[Click here for the Complete Beginner's Guide](BEGINNER_GUIDE.md)** 👈
+
+*This comprehensive guide walks you through everything step-by-step, from installing Python to running your first AI-generated project. Perfect for complete beginners!*
+
+---
+
 ## 🚀 Quick Start
 
 ### Option 1: Automated Setup (Recommended)
