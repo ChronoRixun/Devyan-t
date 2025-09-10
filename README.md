@@ -1,7 +1,7 @@
 # Devyan(t) - AI-Powered Development Assistant
 
 [![Release](https://img.shields.io/badge/release-v0.1.4-blue.svg)](https://github.com/ChronoRixun/Devyan-t/releases/tag/v0.1.4)
-[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3.12+-green.svg)](https://python.org)
 [![Success Rate](https://img.shields.io/badge/success%20rate-100%25-brightgreen.svg)](https://github.com/ChronoRixun/Devyan-t)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -101,7 +101,7 @@ This linear pipeline ensures consistent results without the complexity and failu
 
 ## 💻 System Requirements
 
-- **Python**: 3.8 or higher (tested on Python 3.13.7)
+- **Python**: 3.12 or higher (tested on Python 3.13.7)
 - **GUI**: tkinter (usually included with Python)
 - **Framework**: CrewAI v0.150.0
 - **Optional**: Ollama with Llama3.1:8b model for optimal performance
@@ -188,7 +188,7 @@ For technical details on the architecture and design decisions, see the version-
 
 ---
 
-**Welcome to the future of AI development 🚀**
+**Welcome to the future of AI development - where it actually works! 🚀**
 
 > *"After weeks of wrestling with agent loops and debugging at 3 AM, seeing Devyan(t) generate perfect projects every single time feels surreal. This is proof that sometimes the best solution is to throw away conventional wisdom and build something radically simpler."* - Project Developer
 
