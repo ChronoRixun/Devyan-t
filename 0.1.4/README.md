@@ -1,4 +1,4 @@
-# Devyan v0.1.4 - Production Release
+# Devyan(t) v0.1.4 - Production Release
 
 AI-Powered Development Assistant with Psychology-Independent Architecture
 
@@ -26,7 +26,7 @@ python devyan_main.py
 
 ## System Requirements
 
-- **Python**: 3.8 or higher
+- **Python**: 3.12 or higher
 - **Operating System**: Windows, macOS, or Linux
 - **Dependencies**: Listed in `requirements.txt`
 - **Optional**: Ollama with Llama3.1:8b model for enhanced functionality
@@ -82,7 +82,7 @@ project_name/
 
 1. Check the launch script output for specific error messages
 2. Ensure all dependencies are installed correctly
-3. Verify Python version is 3.8 or higher
+3. Verify Python version is 3.12 or higher
 
 ## Project Output
 
