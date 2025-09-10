@@ -195,3 +195,18 @@ For technical details on the architecture and design decisions, see the version-
 ---
 
 **Download**: [Latest Release v0.1.4](https://github.com/ChronoRixun/Devyan-t/releases/tag/0.1.4)
+
+---
+
+## 💖 Support Devyan(t)
+
+Devyan(t) is a free, open-source local AI development platform that helps you build projects without expensive API costs. If it saves you time or money, consider supporting development:
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ChronoRixun?label=Sponsors&logo=github)](https://github.com/sponsors/ChronoRixun)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chronorixun)
+
+Your support helps:
+- ⚡ Performance optimization for RTX GPUs
+- 🛠️ New crew types and capabilities  
+- 📚 Better documentation and tutorials
+- 🐛 Bug fixes and stability improvements
