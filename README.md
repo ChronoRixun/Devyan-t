@@ -194,4 +194,4 @@ For technical details on the architecture and design decisions, see the version-
 
 ---
 
-**Download**: [Latest Release v0.1.4](https://github.com/ChronoRixun/Devyan-t/releases/tag/v0.1.4)
+**Download**: [Latest Release v0.1.4](https://github.com/ChronoRixun/Devyan-t/releases/tag/0.1.4)
