@@ -116,15 +116,15 @@ You should get a friendly AI response. Type `/bye` to exit.
 ### Step 4: Get Devyan(t) 📁
 
 #### **Option A: Download ZIP (Easiest)**
-1. Go to the [Devyan(t) repository](https://github.com/ChronoRixun/Devyan)
+1. Go to the [Devyan(t) repository](https://github.com/ChronoRixun/Devyan-t)
 2. Click the green "Code" button
 3. Click "Download ZIP"
-4. Extract the ZIP file to a folder like `C:\Devyan` or `~/Devyan`
+4. Extract the ZIP file to a folder like `C:\Devyan-t` or `~/Devyan-t`
 
 #### **Option B: Use Git (If you have it)**
 ```bash
-git clone https://github.com/ChronoRixun/Devyan.git
-cd Devyan
+git clone https://github.com/ChronoRixun/Devyan-t.git
+cd Devyan-t
 ```
 
 ---
@@ -135,12 +135,12 @@ Navigate to the Devyan(t) folder and install the required Python packages.
 
 #### **Windows:**
 1. Open Command Prompt
-2. Navigate to your Devyan folder: `cd C:\path\to\Devyan`
+2. Navigate to your Devyan folder: `cd C:\path\to\Devyan-t`
 3. Run: `python -m pip install -r requirements.txt`
 
 #### **Mac/Linux:**
 1. Open Terminal
-2. Navigate to your Devyan folder: `cd /path/to/Devyan`
+2. Navigate to your Devyan-t folder: `cd /path/to/Devyan`
 3. Run: `python3 -m pip install -r requirements.txt`
 
 ---
