@@ -546,7 +546,6 @@ Once you have Devyan(t) working:
 **Congratulations!** You've successfully installed the world's first psychology-independent AI development assistant. You're now equipped with a tool that can create complete, working applications from simple descriptions.
 
 ### **What Makes This Special:**
-- **Guaranteed Working Code** - No broken projects, ever
 - **Complete Applications** - Not just code snippets, but full programs
 - **Local Privacy** - Your ideas stay on your computer
 - **Beginner Friendly** - No programming experience required
